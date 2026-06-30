@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "Online"
+    "type": "enabled"
   },
   "server": {
     "ip": "DZSERVVV.aternos.me",
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 100,
+    "x": 0,
     "y": 100,
-    "z": 100
+    "z": 
   },
   "utils": {
     "auto-auth": {
