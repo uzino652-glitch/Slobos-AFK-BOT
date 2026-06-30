@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "",
+        "",
         "I like to play Minecraft!"
       ]
     },
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
