@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "": true,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
