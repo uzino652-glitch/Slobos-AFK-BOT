@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "enabled"
+    "type": "offline"
   },
   "server": {
     "ip": "dzserv.aternos.me",
