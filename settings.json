@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "dzserverbot",
+    "username": "bot",
     "password": "AYMEN22",
     "type": "enabled"
   },
   "server": {
-    "ip": "DZSERVVV.aternos.me",
-    "port": 14449,
-    "version": "1.21.1"
+    "ip": "INDRA_02.aternos.me",
+    "port": 45298,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
